@@ -3,7 +3,7 @@ Python script to compare electronic band structure of the same system, or simila
 
 Packages needed:
 
-import os
+import os \\
 import numpy as np
 from mpl_toolkits.axes_grid1 import make_axes_locatable
 import matplotlib as mpl
