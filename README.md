@@ -5,7 +5,7 @@ Packages needed:
 
 import os \
 import numpy as np \
-from mpl_toolkits.axes_grid1 import make_axes_locatable
-import matplotlib as mpl
-import matplotlib.pyplot as plt 
-from scipy.interpolate import interp1d
+from mpl_toolkits.axes_grid1 import make_axes_locatable \
+import matplotlib as mpl \
+import matplotlib.pyplot as plt \ 
+from scipy.interpolate import interp1d \
